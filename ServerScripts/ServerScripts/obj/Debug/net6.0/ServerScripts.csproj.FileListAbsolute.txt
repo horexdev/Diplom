@@ -1,0 +1,12 @@
+D:\MSVisualStudioProjects\ServerScripts\ServerScripts\bin\Debug\net6.0\ServerScripts.deps.json
+D:\MSVisualStudioProjects\ServerScripts\ServerScripts\bin\Debug\net6.0\ServerScripts.dll
+D:\MSVisualStudioProjects\ServerScripts\ServerScripts\bin\Debug\net6.0\ServerScripts.pdb
+D:\MSVisualStudioProjects\ServerScripts\ServerScripts\obj\Debug\net6.0\ServerScripts.csproj.AssemblyReference.cache
+D:\MSVisualStudioProjects\ServerScripts\ServerScripts\obj\Debug\net6.0\ServerScripts.GeneratedMSBuildEditorConfig.editorconfig
+D:\MSVisualStudioProjects\ServerScripts\ServerScripts\obj\Debug\net6.0\ServerScripts.AssemblyInfoInputs.cache
+D:\MSVisualStudioProjects\ServerScripts\ServerScripts\obj\Debug\net6.0\ServerScripts.AssemblyInfo.cs
+D:\MSVisualStudioProjects\ServerScripts\ServerScripts\obj\Debug\net6.0\ServerScripts.csproj.CoreCompileInputs.cache
+D:\MSVisualStudioProjects\ServerScripts\ServerScripts\obj\Debug\net6.0\ServerScripts.dll
+D:\MSVisualStudioProjects\ServerScripts\ServerScripts\obj\Debug\net6.0\refint\ServerScripts.dll
+D:\MSVisualStudioProjects\ServerScripts\ServerScripts\obj\Debug\net6.0\ServerScripts.pdb
+D:\MSVisualStudioProjects\ServerScripts\ServerScripts\obj\Debug\net6.0\ref\ServerScripts.dll

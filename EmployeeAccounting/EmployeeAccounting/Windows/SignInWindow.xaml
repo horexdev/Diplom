@@ -1,0 +1,25 @@
+﻿<Window x:Class="EmployeeAccounting.Windows.SignInWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EmployeeAccounting.Windows"
+        mc:Ignorable="d"
+        Title="SignInWindow" Height="225" Width="400">
+    <Grid Background="CornflowerBlue">
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0, 0, 0, 35">
+            <StackPanel>
+                <TextBlock Text="Логин" Foreground="White"/>
+                <Separator Visibility="Hidden" Height="20"/>
+                <TextBlock Text="Пароль" Foreground="White"/>
+            </StackPanel>
+            <Separator Visibility="Hidden" Width="10"/>
+            <StackPanel Width="100">
+                <TextBox Name="LoginTextBox" FontFamily="Consolas" FontSize="12"/>
+                <Separator Visibility="Hidden" Height="20"/>
+                <TextBox Name="PasswordTextBox" FontFamily="Consolas" FontSize="12"/>
+            </StackPanel>
+        </StackPanel>
+        <Button Name="SignInButton" Content="Войти" Width="125" Height="25" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="40" FontFamily="Consolas" FontSize="13" Foreground="White" Background="CornflowerBlue" BorderBrush="White"/>
+    </Grid>
+</Window>

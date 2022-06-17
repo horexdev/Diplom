@@ -1,0 +1,12 @@
+D:\MSVisualStudioProjects\ClientScripts\ClientScripts\bin\Debug\net6.0\ClientScripts.deps.json
+D:\MSVisualStudioProjects\ClientScripts\ClientScripts\bin\Debug\net6.0\ClientScripts.dll
+D:\MSVisualStudioProjects\ClientScripts\ClientScripts\bin\Debug\net6.0\ClientScripts.pdb
+D:\MSVisualStudioProjects\ClientScripts\ClientScripts\obj\Debug\net6.0\ClientScripts.csproj.AssemblyReference.cache
+D:\MSVisualStudioProjects\ClientScripts\ClientScripts\obj\Debug\net6.0\ClientScripts.GeneratedMSBuildEditorConfig.editorconfig
+D:\MSVisualStudioProjects\ClientScripts\ClientScripts\obj\Debug\net6.0\ClientScripts.AssemblyInfoInputs.cache
+D:\MSVisualStudioProjects\ClientScripts\ClientScripts\obj\Debug\net6.0\ClientScripts.AssemblyInfo.cs
+D:\MSVisualStudioProjects\ClientScripts\ClientScripts\obj\Debug\net6.0\ClientScripts.csproj.CoreCompileInputs.cache
+D:\MSVisualStudioProjects\ClientScripts\ClientScripts\obj\Debug\net6.0\ClientScripts.dll
+D:\MSVisualStudioProjects\ClientScripts\ClientScripts\obj\Debug\net6.0\refint\ClientScripts.dll
+D:\MSVisualStudioProjects\ClientScripts\ClientScripts\obj\Debug\net6.0\ClientScripts.pdb
+D:\MSVisualStudioProjects\ClientScripts\ClientScripts\obj\Debug\net6.0\ref\ClientScripts.dll

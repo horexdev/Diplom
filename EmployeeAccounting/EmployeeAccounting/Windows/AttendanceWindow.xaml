@@ -1,0 +1,14 @@
+﻿<Window x:Class="EmployeeAccounting.Windows.AttendanceWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EmployeeAccounting.Windows"
+        mc:Ignorable="d"
+        Title="AttendanceWindow" Height="450" Width="800">
+    <Grid Background="CornflowerBlue">
+        <DataGrid Name="AttendanceDataGrid" Width="500" Height="300" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="25"/>
+        <ComboBox Name="EmployeesComboBox" Width="125" Height="25" HorizontalAlignment="Left" VerticalAlignment="Bottom" 
+                  Margin="150, 0 0, 50" FontFamily="Consolas" HorizontalContentAlignment="Left" VerticalContentAlignment="Top"/>
+    </Grid>
+</Window>
